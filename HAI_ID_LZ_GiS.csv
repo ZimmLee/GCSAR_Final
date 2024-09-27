@@ -1,4 +1,4 @@
-﻿alphanumeric ID,Serial number ,Site,Collection Date,Sampling Method,Order,Taxa,Genus,Species,Count,Taxa Level,Host,Who ID,ID date,Deterioration,Confidence,Confirm,ConfirmID,Notes
+﻿alphanumeric.ID,Serial.number ,Site,Collection.Date,Sampling.Method,Order,Taxa,Genus,Species,Count,Taxa Level,Host,Who ID,ID date,Deterioration,Confidence,Confirm,ConfirmID,Notes
 TSCS_bv_hym_13Jul22,100.1,TSCS,07/13/22,blue vane,hymenoptera,chrysididae,,,1,family,,LZ,10/18/2023,intact,high,yes,SA,
 TSCS_bv_hym_13Jul22,100.2,TSCS,07/13/22,blue vane,hymenoptera,apidae,,,3,family,,LZ,10/18/2023,intact,,,,
 TSCS_bv_hym_13Jul22,100.3,TSCS,07/13/22,blue vane,hymenoptera,formicidae,,,7,family,,LZ,10/18/2023,,,,,
